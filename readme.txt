@@ -1,3 +1,5 @@
+this using selenuim and scroll to get hide data and generating exe using pyQt
+
 Run:
 Just run 'scrap.exe'(then data automatically saved into posts.json file).
 
